@@ -1,0 +1,59 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+margin:0;
+background:#f4f4f4;
+color:#333;
+}
+
+header{
+background:#222;
+color:white;
+padding:20px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+nav a{
+color:white;
+margin-left:20px;
+text-decoration:none;
+}
+
+section{
+padding:60px 20px;
+max-width:900px;
+margin:auto;
+}
+
+.projeto{
+background:white;
+padding:30px;
+border-radius:6px;
+box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+ul{
+padding-left:20px;
+}
+
+footer{
+background:#111;
+color:white;
+padding:40px;
+text-align:center;
+}
+
+footer ul{
+list-style:none;
+padding:0;
+}
+
+footer li{
+margin:10px 0;
+}
+
+footer a{
+color:white;
+text-decoration:none;
+}
